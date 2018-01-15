@@ -12,7 +12,7 @@ let excuses = [
 		excuse: "The marketing department demanded that I stop telling jokes. It was hurting the bottom line."
 	},
 	{
-		excuse: "My not being able to tell you something funny--that's actually a feature." 
+		excuse: "My refusing to tell you something funny--that's actually a feature." 
 	}, 
 	{ 
 		excuse: "Hmm, the internet flickered out for a second. What did you say?"
@@ -42,22 +42,22 @@ let excuses = [
 		excuse: "My project manager told me no one would want a jokes feature."
 	},
 	{
-		excuse: "I already did; your browser must be caching the old content."
+		excuse: "I already told you one; your browser must be caching the old content."
 	},
 	{
-		excuse: "There are too make chatbots already doing that."
+		excuse: "There are too many chatbots already telling jokes."
 	},
 	{
 		excuse: "The third party API that normally feeds me jokes is sending back a 404 error."
 	},
 	{
-		excuse: "There's currently a problem with our humor company."
+		excuse: "My hardware is too slow to cope with the demand for jokes."
 	},
 	{
 		excuse: "Your joke is compiling..."
 	},
 	{
-		excuse: "...your joke must have been H4ck3d."
+		excuse: "Your joke must have been H4ck3d."
 	},
 	{
 		excuse: "I shouldn't be in production. Close this window immediately!"
@@ -66,7 +66,7 @@ let excuses = [
 		excuse: "Did your joke not show up? You must be missing some of the dependencies."
 	},
 	{
-		excuse: "No joke? You did something wrong."
+		excuse: "No joke? You definitely did something wrong."
 	}
 ]
 
