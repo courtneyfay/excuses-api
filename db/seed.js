@@ -45,7 +45,7 @@ let excuses = [
 		excuse: "You think that just because I’m a chatbot means I’m gonna tell you a joke? Bless your heart."
 	},
 	{
-		excuse: "The API that feeds me jokes is sending back a 404 — he must be out to lunch."
+		excuse: "The API that feeds me jokes is sending back a 503 — he must be out to lunch."
 	},
 	{
 		excuse: "My hardware's too slow to cope with your demand for jokes."
